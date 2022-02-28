@@ -20,7 +20,9 @@ Even in my search I consider myself a student in this subject and I am looking t
 ![statistics](/icons/statistics_58023.png) Statistics<br/>
 
 <h2>History + Experience.</h2>
-### 2011 - My beginnings as a Black-Hat
+
+### 2011 - My beginnings as a Black-Hat.
+
 Back in 2011 when I started with programming(as an autodidact) I was interested in the mathematical concepts of computing, so I start reading a lot and practicing with assemblerx86, then C and C++. At that time I learned reverse engineering thanks to the articles/pdfs of the master Ricardo Narvaja and Corelancoder in the development of the beginning of Exploits, Rootkits, sniffers and my first trojans in Pascal(Delphi 7) which introduced me to understand how sockets and TCP/IP protocol worked, at that time there were challenges in cracklatinos and other pages in which I participated anonymously, also i dominated Backtrack 5 distro and with that others hacking techniques. I was also introduced to the world of web development.
 
 ### 2012 - First jobs.
