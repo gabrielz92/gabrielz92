@@ -1,8 +1,8 @@
 <h1>Hello world, Gabriel Zenobi here</h1>
-I am a Physics student with 1 year and a half of career and 1 year of studies in Data Science, in 2022 I started the degree of Computer Scientist, lover of mathematics, modeling of dynamic systems and simulation.
+I am a Physics student with 1 year and a half of career and 1 year of studies in Data Science, in 2022 I started the degree of Computer Scientist. Im a lover of mathematics, modeling of dynamic systems and simulation.
 During 2021 I worked in +15 independent projects related to financial markets, researching and developing techniques for the creation of trading systems using Machine Learning and Deep Learning with Python in addition to the Ninjatrader and Metatrader platforms, along with the management of risk metrics using a simulator that I programmed in Cython.<br/><br/>
 Another of my important works in this area was the creation of a toolkit for investment funds, banks and traders... this is the Order flow, Volume profile, Bookmap, Volume Filter, among others(the Wyckoff method).
-Even in my search I consider myself a student in this subject and I am looking to work with people who are interested in the use of these technologies applied to the markets (hedge funds, traders, investment banks, etc..). 
+Even in my search I consider myself a student in this subject and I am looking to work with people who are interested in the use of these technologies applied to the markets(hedge funds, traders, investment banks, etc..) for make algorithmic trading and data science. 
 
 <h1>Skills</h1>
 
