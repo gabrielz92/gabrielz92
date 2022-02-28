@@ -11,7 +11,7 @@ Even in my search I consider myself a student in this subject and I am looking t
 ![python](/icons/python_18894.png) Python<br/>
 ![cython](/icons/cython_icon_132455.png) Cython<br/>
 ![Cpp](/icons/c_icon_132529.png) C++<br/>
-![WebDev](/icons/web_development_59971.png) HTML / CSS / Javascript<br/>
+![WebDev](/icons/web_development_59971.png) HTML / CSS / Javascript / PHP<br/>
 ![ML](/icons/machine_learing_12855.png) Machine Learning: _KNN, Kmeans, Decision trees, PCA, Genetics algorithms, Montecarlo optimization, Confusion Matrix, Neural networks(Multi-layer perceptron), Regressions, little bit of Reinforcement learning, ..._<br/>
 ![CSharp](/icons/Csharp_423.png) Ninjatrader8: _C#_<br/>
 ![MQL5](/icons/mql_35041.png) Metatrader 5: _Mql(embedded language), Optimization, Risk metrics(Sharpe, RMSE, Expected Payoff, Drawdown and another factors)_<br/>
