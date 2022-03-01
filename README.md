@@ -19,6 +19,12 @@ Even in my search I consider myself a student in this subject and I am looking t
 ![datascience](/icons/data_science_150064.png) Data Science<br/>
 ![statistics](/icons/statistics_58023.png) Statistics<br/>
 
+<h2>Social media.</h2>
+
+![ins](/icons/Instagram.png) Instagram: www.instagram.com/gab.zenobi/
+<br/>
+![lin](/icons/linkedin.png) LinkedIn: www.linkedin.com/in/gabriel-zenobi
+
 <h2>History + Experience.</h2>
 
 ### 2011 - My beginnings as a Black-Hat.
