@@ -6,13 +6,14 @@ Even in my search I consider myself a student in this subject and I am looking t
 
 <h1>Skills</h1>
 
-![physics](/icons/physics_149702.png) Physics(1+ year and a half)<br/>
-![computerscience](/icons/computer_23805.png) Computer science (2022)<br/>
+![physics](/icons/physics_149702.png) Physics<br/>
+![computerscience](/icons/computer_23805.png) Computer science<br/>
+![mathematics](/icons/pi.png) Applied Mathematics<br/>
 ![python](/icons/python_18894.png) Python<br/>
 ![cython](/icons/cython_icon_132455.png) Cython<br/>
 ![Cpp](/icons/c_icon_132529.png) C++<br/>
 ![WebDev](/icons/web_development_59971.png) HTML / CSS / Javascript / PHP<br/>
-![ML](/icons/machine_learing_12855.png) Machine Learning: _KNN, Kmeans, Decision trees, PCA, Genetics algorithms, Montecarlo optimization, Regression analysis, Neural networks(Multi-layer perceptron), Regressions, little bit of Reinforcement learning, ..._<br/>
+![ML](/icons/machine_learing_12855.png) Machine Learning<br/>
 ![CSharp](/icons/Csharp_423.png) Ninjatrader8: _C#_<br/>
 ![MQL5](/icons/mql_35041.png) Metatrader 5: _Mql(embedded language), Optimization, Risk metrics(Sharpe, RMSE, Expected Payoff, Drawdown and another factors)_<br/>
 ![system](/icons/system_1540.png) Trading systems developing; _Python, Cython, TALib, Machine Learning, Ninjatrader8 and Metatrader 5._<br/>
